@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450181690392",
+    "project_id": "mywallet-dfd2b",
+    "storage_bucket": "mywallet-dfd2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450181690392:android:5104e7844124cd72543f6d",
+        "android_client_info": {
+          "package_name": "com.example.mywallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8bUmXGedxDegMmL0TOEnRwnib0Ptl-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
